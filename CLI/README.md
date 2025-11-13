@@ -189,6 +189,10 @@ If you'd like an `examples/` folder with runnable scripts and a `start-workers.p
 QueueCTL is a lightweight CLI-driven background job queue for running shell commands reliably on a single machine. It provides persistent storage (SQLite), workers with locking, automatic retries with exponential backoff, and a Dead Letter Queue (DLQ) for permanently failed jobs.
 
 This README covers installation, common commands, configuration, and troubleshooting to get you started quickly.
+## 🎥 CLI Demo
+
+[▶️ Watch the CLI demo here](https://drive.google.com/file/d/1lMGIzJIbGzYjoAbaz4kblusLSsNONwO3/view?usp=drive_link)
+
 
 
 
